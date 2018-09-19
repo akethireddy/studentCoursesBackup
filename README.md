@@ -1,4 +1,4 @@
-# studentCoursesBackup
+# StudentCoursesBackup
 
 1)Uses Observer patter to create two backups of the allotted courses to each student. 
 2)This system provides service to students to choose courses for registration and allocates the subjects based on the satisfying pre-requisites. 
